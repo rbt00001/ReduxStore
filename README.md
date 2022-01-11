@@ -39,3 +39,7 @@ Unlicense
 ## Author of Refactor
 
 Ben Townsend
+
+### Technology
+
+MERN stack with GraphQL
