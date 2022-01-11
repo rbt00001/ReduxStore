@@ -1,9 +1,13 @@
 const initState = {
-    posts: []
-}
+  posts: [
+    {
+      foo: "bar",
+    },
+  ],
+};
 
-const rootReducer = (state, action) = => {
-    return state;
-}
+const rootReducer = (state = initState, action) => {
+  return state;
+};
 
-export default rootReducer
+export default rootReducer;
